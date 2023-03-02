@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087664825993",
+    "project_id": "sixth-exam-c8cc1",
+    "storage_bucket": "sixth-exam-c8cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087664825993:android:a40dba5e13efe2f726c858",
+        "android_client_info": {
+          "package_name": "com.example.six_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087664825993-esphn6117b568rf82cbcc87hek31deqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.six_exam",
+            "certificate_hash": "86d95ab772d8492144aafd0e1a0442484428455b"
+          }
+        },
+        {
+          "client_id": "1087664825993-omjeir5r12p5q5hvskjshm53qa953bvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tzJ_DXYufDU96s_PzqGAif903GJwXqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087664825993-omjeir5r12p5q5hvskjshm53qa953bvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
